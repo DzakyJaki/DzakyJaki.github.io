@@ -116,17 +116,6 @@ span {
   box-shadow: 1px 1px 10px;
 }
 
-.input:enabled {
-  color: green 2px;
-}
-
-.input:disabled {
-  color: red 2px;
-}
-
-.input:checked {
-  margin-left: 20px;
-}
 /* contact end */
 
 /* footer */
